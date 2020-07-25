@@ -6,9 +6,9 @@ Perkenalkan nama saya **Alfian Naufal**. Saya adalah **Web Developer** khususnya
 
 ## 📞 Pekerjakan Saya
 
-- Email: [alfian.naufal@uinsby.ac.id](mailto:alfian.naufal@uinsby.ac.id)
+- [gmail]: [alfian.naufal@uinsby.ac.id](mailto:alfian.naufal@uinsby.ac.id)
 
-- Github: [Tawaran Kerjasama](https://github.com/piantgrunger/piantgrunger/issues/new)
+- [github]: [Tawaran Kerjasama](https://github.com/piantgrunger/piantgrunger/issues/new)
 
 ## Github Top Language
 [![piantgrunger's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piantgrunger)](https://github.com/anuraghazra/github-readme-stats)
