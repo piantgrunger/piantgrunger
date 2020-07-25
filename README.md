@@ -6,7 +6,7 @@ Perkenalkan nama saya **Alfian Naufal**. Saya adalah **Web Developer** khususnya
 
 ## 📞 Pekerjakan Saya
 
-- [gmail] : [alfian.naufal@uinsby.ac.id](mailto:alfian.naufal@uinsby.ac.id)
+- :gmail: : [alfian.naufal@uinsby.ac.id](mailto:alfian.naufal@uinsby.ac.id)
 
 - [github]: [Tawaran Kerjasama](https://github.com/piantgrunger/piantgrunger/issues/new)
 
