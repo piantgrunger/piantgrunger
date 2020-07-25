@@ -8,7 +8,7 @@ Perkenalkan nama saya **Alfian Naufal**. Saya adalah **Web Developer** khususnya
 
 - e-mail : [alfian.naufal@uinsby.ac.id](mailto:alfian.naufal@uinsby.ac.id)
 
-- Whatsapp : [Whatsapp] (https://wa.me/6285732260330)
+- Whatsapp : [Whatsapp](https://wa.me/6285732260330)
 
 - [Tawaran Kerjasama](https://github.com/piantgrunger/piantgrunger/issues/new)
 
